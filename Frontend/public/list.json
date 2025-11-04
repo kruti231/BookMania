@@ -1,0 +1,84 @@
+[
+    {
+        "id" :1,
+        "name":"Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"listbook.jpg"
+    },
+    {
+            "id" :2,
+            "name":"Comedy Book",
+            "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": 20,
+            "category": "Entertainment",
+            "image":"listbook.jpg"    
+    },
+    {
+        "id" :3,
+        "name":"Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"listbook.jpg"
+    },
+    {
+        "id" :4,
+        "name":"Sports Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Sports",
+        "image":"listbook.jpg"
+    },
+    {
+        "id" :5,
+        "name":"Music Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 400,
+        "category": "Music",
+        "image":"listbook.jpg"
+    },
+    {
+        "id" :6,
+        "name":"Sports Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Sports",
+        "image":"listbook.jpg"
+    },
+    {
+        "id" :7,
+        "name":"Sports Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Sports",
+        "image":"listbook.jpg"
+    },
+    {
+        "id" :8,
+        "name":"Thriller Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 500,
+        "category": "Thriller",
+        "image":"listbook.jpg"
+    },
+    {
+            "id" :9,
+            "name":"Food Book",
+            "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": 150,
+            "category": "Entertainment",
+            "image":"listbook.jpg"    
+    },
+    {
+        "id" :10,
+        "name":"Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"listbook.jpg"
+    }
+
+
+]
